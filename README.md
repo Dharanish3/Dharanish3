@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, React, Laravel, Mongo DB , Mysql**
 
-- 💬 Ask me about **React, Redux, Node**
+- 💬 Ask me about **React, Redux, Node, Database, Aws**
 
 - 📫 How to reach me **dharanishsk9698@gmail.com**
 
