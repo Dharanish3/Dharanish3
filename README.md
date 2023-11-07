@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dharanish</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I’m currently working on **Full Stack Development (Mern Stack)**
 
-- 🌱 I’m currently learning **Node, React, Laravel, Mongo DB , Mysql**
+- 🌱 I’m currently learning **Nodejs, React, Laravel, Mongo DB , Mysql**
 
-- 💬 Ask me about **React, Redux, Node, Database, AWS**
+- 💬 Ask me about **React, Node, Database, AWS**
 
 - 📫 How to reach me **dharanishsk9698@gmail.com**
 
