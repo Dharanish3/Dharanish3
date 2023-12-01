@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Full Stack Development (Mern Stack)**
 
-- 🌱 I’m currently learning **Nodejs, React, Laravel, Mongo DB , Mysql**
+- 🌱 I’m currently learning **Javascript, React, Laravel, Mongo DB **
 
-- 💬 Ask me about **React, Node, Database, AWS**
+- 💬 Ask me about **Javascript , React, Node, Database, AWS**
 
 - 📫 How to reach me **dharanishsk9698@gmail.com**
 
