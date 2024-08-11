@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dharanish</h1>
+<h1 align="center">Hi 👋, I'm Dharanish  Karthikeyan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 🔭 I’m currently working on **Full Stack Development (Mern Stack)**
