@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development (Mern Stack)**
 
-- 🌱 I’m currently learning **Javascript, React, Laravel, Mongo DB **
+- 🌱 I’m currently learning **Javascript, React, Node,Express,Typescript,Mysql, Mongo DB **
 
 - 💬 Ask me about **Javascript , React, Node, Database, AWS**
 
