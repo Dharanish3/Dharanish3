@@ -1,4 +1,4 @@
-# Hi, I'm a Full-Stack Software Engineer 👋
+# Hi, I'm a Full-Stack Software Engineer - Gen AI & Agentic AI 👋
 
 I'm a **Full-Stack Software Engineer with 5+ years of experience** building and shipping production-ready applications and AI-powered solutions.
 
